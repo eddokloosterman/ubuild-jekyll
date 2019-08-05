@@ -23,7 +23,7 @@ page_sections:
   heading: uBuild <br><strong>design blocks</strong>
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
     class="light">the Blocks to create sites quickly</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
