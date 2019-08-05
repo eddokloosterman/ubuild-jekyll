@@ -18,19 +18,9 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
-- template: hero-banner-w-image
-  block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
-  image:
-    alt_text: Product Shot
-    image: ''
-  background_image: ''
+- template: text-only-hero-banner
+  block: hero-1
+  heading: uBuild <br><strong>design blocks</strong>
 - template: content-feature
   block: feature-1
   media_alignment: Left
