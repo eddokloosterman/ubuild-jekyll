@@ -6,8 +6,10 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: Home
+  - link: "#"
     link_text: Home
+  - link: "#services"
+    link_text: Services
   logo: ''
 - template: navigation-header-w-button
   block: header-2
